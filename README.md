@@ -12,4 +12,3 @@ O programa considera os seguintes passos, que são divididos em códigos:
   3) Avaliação econômica;
   4) Determinação do VPL, VPLV e IBC;
   5) Determinação do volume que apresenta o valor máximo de cada indicador assim como os demais indicadores para cada volume.
-
