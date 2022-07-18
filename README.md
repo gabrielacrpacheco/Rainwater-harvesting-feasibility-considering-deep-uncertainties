@@ -15,7 +15,9 @@ The program considers the following steps, which are divided into codes:
     5) Determination of the volume that presents the maximum value of each indicator as well as the other indicators for each volume.
 
 
-
+_____
+_____
+_____
 
 Este é o código usado no meu doutorado para avaliar a viabilidade de sistemas de aproveitamento de água pluvial considerando incertezas profundas
 O programa considera os seguintes passos, que são divididos em códigos:
@@ -26,7 +28,7 @@ O programa considera os seguintes passos, que são divididos em códigos:
   - Código 3: A partir dos dados de entrada os reservatórios são dimensionados e é efetuada a avaliação do comportamento dos sistemas por meio de indicadores técnicos (Demanda Atendida - SD, Confiabilidade - REL and Água Aproveitada - RH) e econômicos (Valor Presente Líquido - NPV, Valor Presente Líquido por volume - NPVV and Índice Custo Benefício - BCR) no contexto de incertezas.
     *    Dados de entrada: arquivos gerados com os Códigos 1 e 2, arquivo csv com informações de demanda, preços de reservatório, estrutura tarifária, parâmetros de dimensionamento e econômicos.
     1) Simulação contínua do balanço de massa diária para cada volume de armazenamento definido como dado de entrada;
-    2) Determinação da DA, CON, VA e determinação do volume ideal;
+    2) Determinação da SD, CON, RH e determinação do volume ideal;
     3) Avaliação econômica;
-    4) Determinação do VPL, VPLV e IBC;
+    4) Determinação do NPV, NPVV and BCR;
     5) Determinação do volume que apresenta o valor máximo de cada indicador assim como os demais indicadores para cada volume.
