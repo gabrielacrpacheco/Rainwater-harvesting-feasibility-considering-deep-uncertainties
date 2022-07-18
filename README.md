@@ -1,2 +1,2 @@
 # Rainwater-harvesting-feasibility
-ESte é o código usado no meu doutorado
+Este é o código usado no meu doutorado para avaliar a viabilidade de sistemas de aproveitamento de água pluvial considerando incertezas profundas
