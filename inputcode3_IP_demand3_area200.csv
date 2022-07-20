@@ -1,0 +1,38 @@
+GENERAL DATA;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+Volume of water available for capture;;;;;;;;;;;;;;;;;
+Area (m²);Runoff coefficient (%);Initial disposal (mm);;;;;;;;;;;;;;;
+200;0.8;2;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+Sizing variables;;;;;;;;;;;;;;;;;
+Teta;;;;;;;;;;;;;;;;;
+0;;;;;;;;;;;;;;;;;
+Desired efficiency (%/m³);;;;;;;;;;;;;;;;;
+4;;;;;;;;;;;;;;;;;
+Start date of rainfall data;;;;;;;;;;;;;;;;;
+01/10/1996;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+ECONOMIC EVALUATION;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+Costs;;;;;;;;;;;;;;;;;
+Monthly fixed cost (R$);Monthly variable cost (R$);Quarterly fixed cost (R$);Half-yearly fixed cost (R$);Annual fixed cost (R$);Annual variable cost (R$);;;;;;;;;;;;
+0;0.1170;0;80;0;0.015;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+Economic variables;;;;;;;;;;;;;;;;;
+Lifespan (years);Discount rate (% per month);Annual water increase rate (% per year);Percentage of water tariff corresponding to sewage (%);Annual cost increase;;;;;;;;;;;;;
+30;0.6162;1;100;1;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+Tariff structure;;;;;;;;;;;;;;;;;
+How many consumption ranges are there;There is a minimum tariff when there is use of rainwater;The minimum tariff considers what minimum volume (m³);There is a basic rate;What is the value of the basic rate?;;;;;;;;;;;;;
+8;N;;Y;13.45;;;;;;;;;;;;;
+Volume 1 (m³);Price 1 (R$/m³);Volume 2 (m³);Price 2 (R$/m³);Volume 3 (m³);Price 3 (R$/m³);Volume 4 (m³);Price 4 (R$/m³);Volume 5 (m³);Price 5 (R$/m³);Volume 6 (m³);Price 6 (R$/m³);Volume 7 (m³);Price 7 (R$/m³);Volume 8 (m³);Price 8 (R$/m³);;
+10;4.44;15;5.03;20;5.74;25;6.52;30;7.36;40;8.40;50;9.50;150;10.83;;
+;;;;;;;;;;;;;;;;;
+Average monthly consumption (m³);;;;;;;;;;;;;;;;;
+JAN;FEB;MAR;APR;MAY;JUN;JUL;AUG;SEP;OCT;NOV;DEC;;;;;;
+17.78;17.78;17.78;17.78;17.78;17.78;17.78;17.78;17.78;17.78;17.78;17.78;;;;;;
+;;;;;;;;;;;;;;;;;
+Volume (liters) x system cost (R$);;;;;;;;;;;;;;;;;
+How many volumes;18;;;;;;;;;;;;;;;;
+0.31;0.5;0.6;1;1.5;1.75;2;2.5;3;5;6;10;15;20;25;30;35;40
+2428.92;2404.10;2678.62;2820.54;3480.32;3583.19;3978.61;4586.49;4914.89;5578.69;6622.87;7898.70;10772.37;16103.89;17075.46;19949.12;25280.65;30612.17
