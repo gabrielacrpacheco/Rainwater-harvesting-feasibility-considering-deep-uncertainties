@@ -13,7 +13,10 @@ The program considers the following steps, which are divided into codes:
     3) Economic evaluation;
     4) Determination of NPV, NPVV and BCR;
     5) Determination of the volume that presents the maximum value of each indicator as well as the other indicators for each volume.
-
+  - Code 4: Drawing of parallel coordinates plot with indicators calculated for all scenarios (total or for each demand value).
+    * Input data: csv file with the results presented by code 4 for all demand values.  
+  - Code 5: Drawing of scatter plot with Satisfied Demand (SD) indicator by the factors of DUs and hydrological parameters.
+    * Input data: csv file with the results presented by code 4 for all demand values. 
 
 _____
 _____
@@ -32,3 +35,7 @@ O programa considera os seguintes passos, que são divididos em códigos:
     3) Avaliação econômica;
     4) Determinação do NPV, NPVV and BCR;
     5) Determinação do volume que apresenta o valor máximo de cada indicador assim como os demais indicadores para cada volume.
+  - Código 4: Elaboração de gráfico de linhas com os indicadores calculados para todos os cenários (gráfico total ou para cada valor de demanda).
+    *    Dados de entrada: arquivo csv com os resultados apresentados pelo código 4 para todos os valores de demanda.  
+  - Código 5: Elaboração de gráfico de pontos da Demanda Atendida (SD) pelos fatores de DUs e pelos parâmetros hidrológicos.
+    *    Dados de entrada: arquivo csv com os resultados apresentados pelo código 4 para todos os valores de demanda. 
