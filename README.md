@@ -1,4 +1,4 @@
-# Rainwater-harvesting-feasibility
+# Rainwater-harvesting-feasibility-considering-deep-uncertainties
 
 This is the code used in my PhD to assess rainwater harvesting systems feasibility considering deep uncertainties.
 The program considers the following steps, which are divided into codes:
